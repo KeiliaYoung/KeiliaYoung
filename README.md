@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web and Email Development.
 - 🌱 I’m currently learning HTML Emails.
 <!-- - 💞️ I’m looking to collaborate on...  -->
-- 📫 How to reach me on LinkedIn.
+- 📫 I can be reached on LinkedIn.
 
 <!---
 KeiliaYoung/KeiliaYoung is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
